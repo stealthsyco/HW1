@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW1</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="eiffel">La Torre Eiffel después del apocalipsis.</string>
+    <string name="sydney">La Ópera de Sydney.</string>
+    <string name="forbidden">La Ciudad Prohibida de Pekín.</string>
+    <string name="cali">El templo en California.</string>
+
+</resources>

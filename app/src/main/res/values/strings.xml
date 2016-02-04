@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="eiffel">The Eiffel Tower after the apocalypse.</string>
+    <string name="tower">The Eiffel Tower</string>
+    <string name="sydney">The Sydney Opera House.</string>
+    <string name="opera">Opera House</string>
+    <string name="forbidden">The Forbidden City in Beijing.</string>
+    <string name="forb">The Forbidden City</string>
+    <string name="cali">The Temple in California.</string>
+    <string name="temple">Temple</string>
+</resources>
